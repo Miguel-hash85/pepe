@@ -20,6 +20,9 @@ public class Pepe {
 
 	
 	
+	/**
+	 * @return devuelve nombre
+	 */
 	public String getPepe() {
 		return pepe;
 	}
